@@ -3,5 +3,5 @@
 </p>
 
 -------
-Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
+A journey for those who are not afraid of the unknown. The path to the Upside Down is uncertain, fraught with obstacles and dangers. But the reward is great: saving Hawkings and the whole world from Vecna's clutches. Are you prepared?
 
