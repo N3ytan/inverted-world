@@ -7,5 +7,11 @@ const txtCharacter = document.getElementById('txtCharacter')
 const btnSubscribe = document.getElementById('btnSubscribe')
 
 btnSubscribe.addEventListener('click', () => {
-    console.log ( "Passou por aqui!" )
+    const subscription = {
+        name: txtName.value,
+        email: txtEmail.value,
+        level: txtLevel.value,
+        character: txtCharacter.value
+    }
 })
+/// Como o projeto para mim e focado no front-end não irei dar continuidade no banco de dados ///
